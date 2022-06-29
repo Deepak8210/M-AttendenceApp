@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_log_out.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/log_out.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_ic_launcher.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_dashboard.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/dashboard.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_calendar_icon.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/calendar_icon.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_roundedbutton.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/roundedbutton.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_addstudent.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/addstudent.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout___listview_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/__listview_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_addfaculty.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/addfaculty.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_clg.jpg.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/clg.jpg"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/font_airstrike.ttf.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/font/airstrike.ttf"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_test_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/test_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_addstudent.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/addstudent.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_listview_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/listview_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_avatar.gif.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/avatar.gif"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-mdpi_ic_launcher.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/font_gentax.otf.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/font/gentax.otf"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_login.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/login.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_background.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/background.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_test_layout.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/test_layout.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/font_harabara.otf.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/font/harabara.otf"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_add_attandance.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/add_attandance.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_ic_baseline_vpn_key_24.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/ic_baseline_vpn_key_24.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_fullyround.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/fullyround.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_addfaculty.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/addfaculty.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-xxhdpi_timetable.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-xxhdpi/timetable.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_ic_baseline_person_add_alt_1_24.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/ic_baseline_person_add_alt_1_24.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/font_gadies.otf.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/font/gadies.otf"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/font_qualy.ttf.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/font/qualy.ttf"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_roundedtextview.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/roundedtextview.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_ic_baseline_person_add_24.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/ic_baseline_person_add_24.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_newrounded.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/newrounded.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_buttongrey.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/buttongrey.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_students.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/students.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_ic_baseline_phone_24.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/ic_baseline_phone_24.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_background2.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/background2.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_ic_baseline_login_24.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/ic_baseline_login_24.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_education.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/education.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/menu_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_ic_baseline_calendar_month_24.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/ic_baseline_calendar_month_24.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-xxhdpi_attend.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-xxhdpi/attend.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_view_student_list.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/view_student_list.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_view_attendance_list_per_student.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/view_attendance_list_per_student.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_view_attendance_list.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/view_attendance_list.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_add_student_attendance.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/add_student_attendance.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_faculty.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/faculty.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_view_faculty_list.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/view_faculty_list.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_viewstudent.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/viewstudent.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable-hdpi_attendence.png.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable-hdpi/attendence.png"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/layout_menu.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/layout/menu.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "com.example.androidattendancesystem.app-merged_res-9:/drawable_ic_baseline_place_24.xml.flat",
+        "source": "com.example.androidattendancesystem.app-main-11:/drawable/ic_baseline_place_24.xml"
+    }
+]

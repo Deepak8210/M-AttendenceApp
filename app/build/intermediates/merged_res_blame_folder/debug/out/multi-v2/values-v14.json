@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.androidattendancesystem.app-mergeDebugResources-7:/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\deepa\\Desktop\\M-Attendence\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "438"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "224"
+                    }
+                }
+            ]
+        }
+    ]
+}
