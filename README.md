@@ -1,4 +1,4 @@
-# M-Attendance-App
+# M-AttendanceApp
 Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
 
 android developer, Java, Android Studio, Xml ·
